@@ -1,6 +1,6 @@
 # Materiais de apresentação:
 
-- App: https://techsouro.netlify.app/
+- App: https://frontend-techsouro.vercel.app/
 
 - Youtube: https://youtu.be/l4JuMIoRjs4
 
