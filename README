@@ -1,0 +1,12 @@
+# Materiais de apresentação:
+
+- App: https://techsouro.netlify.app/
+
+- Youtube: https://youtu.be/l4JuMIoRjs4
+
+- Material do Pitch: https://drive.google.com/file/d/15t-JKSl3tF5Tb841LT9WU7wKTsWhYsyF/view?usp=sharing 
+
+- Vídeo do backend:https://drive.google.com/file/d/13kh4BhodzAKLAVjIvPTWPVlkMZYrJ95k/view
+
+
+## OBS: Cada repositório existe sua documentação específica, em especial o do smart contract.
